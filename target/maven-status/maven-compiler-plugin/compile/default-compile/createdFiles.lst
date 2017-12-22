@@ -1,0 +1,3 @@
+com\pluralsight\bookstore\model\Book.class
+Repository\BookRepository.class
+com\pluralsight\bookstore\model\Language.class
